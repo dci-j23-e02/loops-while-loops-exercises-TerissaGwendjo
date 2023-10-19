@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Exercise2/NumberGuessingGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercise3/CompoundInterestCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercise4/GradeCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise5/OrderTotalCalculator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
