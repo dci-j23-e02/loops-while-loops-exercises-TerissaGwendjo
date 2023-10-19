@@ -17,7 +17,7 @@ import java.util.Scanner;
             do {
                 System.out.print("Guess the number (between 1 and 100): ");
                 userGuess = scanner.nextInt();
-                numberOfGuesses++;
+                numberOfGuesses++; //increment the number of guesses
 
                 if (userGuess < randomNumber) {
                     System.out.println("Too low! Try again.");
